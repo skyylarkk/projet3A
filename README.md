@@ -38,8 +38,8 @@ You also need this equipement to build your robot :
 - 3x stepper motors with at least a 4N tork 
 - 2x AX-12
 - 2x XL-320
-- 
-- 
+- a power conversion module from 230 V to 24 V
+- all the componants to make the PCB (you can see them in the PCB files)
 
 ## Starting
 
