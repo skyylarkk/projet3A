@@ -51,8 +51,8 @@ In the different folders of the repository you have access to the code for the s
 
 ## Built/developped with
 
-* [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - steppers code
-* [SolidWorks](https://www.solidworks.com/) - mecanical parts
+* [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - for the steppers code
+* [SolidWorks](https://www.solidworks.com/) - for the mecanical parts
 
 ## Versions
 
@@ -61,7 +61,7 @@ In the different folders of the repository you have access to the code for the s
 
 ## Autors
 
-* **CHAPUIS Clément** _alias_ [@outout14](https://github.com/ClementChapuis)
-* **HERAULT Félix** _alias_ [@outout14](https://github.com/FelixHerault)
-* **SUTRA Aurélien** _alias_ [@outout14](https://github.com/skyylarkk)
+* **CHAPUIS Clément** _alias_ [@ClementChapuis](https://github.com/ClementChapuis)
+* **HERAULT Félix** _alias_ [@FelixHerault](https://github.com/FelixHerault)
+* **SUTRA Aurélien** _alias_ [@skyylarkk](https://github.com/skyylarkk)
 
